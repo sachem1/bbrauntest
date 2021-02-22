@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ef29f5bb-276b-4f5a-b7bb-7c0e95ff1e0b/resourceGroups/RG-TestChew/providers/Microsoft.Web/sites/bbraunweb",
+    "appService.deploySubpath": "."
+}
